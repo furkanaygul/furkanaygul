@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** and **Full Stack Devel
 | **Git, Docker, CI/CD**     | 60%         |
 | **Linux System Administration** | 55%     |
 | **Modbus, Profinet, Profibus, MQTT** | 100% |
-
+| **Flutter** | 30% |
 ---
 
 ## 🌟 Highlighted Projects
