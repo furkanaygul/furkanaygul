@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** and **Full Stack Devel
 ## 🌟 Highlighted Projects
 
 ### [Nexa-Flow](https://furkanaygul.com.tr/projects/nexa-flow)  
-A large-scale flow control system created for **Botaş**.
+A large-scale flow control system.
 
 ### [IPACK Scada Systems](https://furkanaygul.com.tr/projects/ipack-scada)  
 Revision and development of the Scada system created with **PHP** and **MsSQL**.
