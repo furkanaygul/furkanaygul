@@ -56,14 +56,6 @@ A **real-time monitoring web app** with customizable dashboards, developed using
 - **ASP.NET Core**, **PostgreSQL**, **SignalR**
 - Advanced **JS/CSS frameworks** for Drag&Drop functionality.
 
----
-
-## 📊 GitHub Stats
-
-![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanaygul&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaygul&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 - 🌐 **Website:** [furkanaygul.com.tr](https://furkanaygul.com.tr)  
