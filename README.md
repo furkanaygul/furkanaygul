@@ -12,21 +12,40 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** and **Full Stack Devel
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills & Expertise
 
-| Skill                       |
-|-----------------------------|
-| **HTML**                   | 
-| **CSS**                    | 
-| **JavaScript**             | 
-| **C#, .NET Core**          | 
-| **SQL & NoSQL Databases**  |
-| **PHP**                    |
-| **Git, Docker, CI/CD**     | 
-| **Linux System Administration** 
-| **Modbus, Profinet, Profibus, MQTT** 
-| **Flutter**
+With a strong background in **Computer Engineering** and years of hands-on experience in both **software development** and **industrial automation**, I specialize in delivering robust, scalable, and efficient solutions. Here's a quick overview of my technical skillset:
+
+### 💻 Programming & Development
+- **C#, .NET Core** – Advanced backend development, API design, multi-threaded applications  
+- **JavaScript, HTML, CSS** – Modern UI/UX with responsive design and interactivity  
+- **PHP** – Backend scripting and WordPress customization  
+- **Flutter** – BLE communication-based hybrid mobile applications  
+
+### 🗄️ Databases
+- **SQL** (PostgreSQL, MSSQL) – Query optimization, schema design, relational logic  
+- **NoSQL** (MongoDB) – Document modeling, aggregation pipelines, real-time processing  
+
+### ⚙️ DevOps & Tools
+- **Git & GitHub** – Version control, branching strategies, CI/CD via GitHub Actions  
+- **Docker** – Containerization of development and production environments  
+- **CI/CD Pipelines** – Automation of build and deployment processes  
+- **Linux System Administration** – Bash scripting, service management, performance tuning  
+
+### 🧠 Industrial Protocols & Automation
+- **Modbus (RTU/TCP)** – Real-time data communication with field devices  
+- **Profinet & Profibus** – Industrial network integration and troubleshooting  
+- **MQTT** – Lightweight IoT messaging protocols  
+- **SCADA & HMI** – Process monitoring, data visualization, and dashboard design  
+
+### 🔧 Additional Skills
+- **Software Architecture** – Clean code structure, modular and scalable designs  
+- **SignalR & WebSockets** – Real-time communication for industrial dashboards  
+- **Chrome Extension Development** – Data-driven browser tools  
+- **ElectronJS** – Cross-platform desktop apps for SCADA monitoring  
+
 ---
+
 
 ## 🌟 Highlighted Projects
 
