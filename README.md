@@ -14,18 +14,18 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** and **Full Stack Devel
 
 ## 🛠️ Skills
 
-| Skill                       | Proficiency |
-|-----------------------------|-------------|
-| **HTML**                   | 100%        |
-| **CSS**                    | 90%         |
-| **JavaScript**             | 75%         |
-| **C#, .NET Core**          | 100%        |
-| **SQL & NoSQL Databases**  | 80%         |
-| **PHP**                    | 70%         |
-| **Git, Docker, CI/CD**     | 60%         |
-| **Linux System Administration** | 55%     |
-| **Modbus, Profinet, Profibus, MQTT** | 100% |
-| **Flutter** | 30% |
+| Skill                       |
+|-----------------------------|
+| **HTML**                   | 
+| **CSS**                    | 
+| **JavaScript**             | 
+| **C#, .NET Core**          | 
+| **SQL & NoSQL Databases**  |
+| **PHP**                    |
+| **Git, Docker, CI/CD**     | 
+| **Linux System Administration** 
+| **Modbus, Profinet, Profibus, MQTT** 
+| **Flutter**
 ---
 
 ## 🌟 Highlighted Projects
