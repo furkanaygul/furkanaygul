@@ -58,7 +58,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `.NET 8`, `C#`, `Modbus TCP/RTU`, `Entity Framework`, `NPoco`, `PostgreSQL`, `MongoDB Timeseries`, `Docker`, `Serilog`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/nexa-flow)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=nexa-flow)
 </details>
 
 <details>
@@ -69,7 +69,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `PHP`, `MsSQL`, `Windows Forms`, `C#`, `Modbus`, `TCP Server`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/ipack-scada)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=ipack-scada)
 </details>
 
 <details>
@@ -80,7 +80,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `Node.js`, `ElectronJS`, `JavaScript`, `Bootstrap`, `ModbusRTU`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/detector-monitoring)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=detector-monitoring)
 </details>
 
 <details>
@@ -91,7 +91,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `JavaScript`, `Chrome Extension`, `ElectronJS`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/nas-system)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=nas-system)
 </details>
 
 <details>
@@ -102,7 +102,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `HTML`, `CSS`, `JavaScript`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/mail-signature)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=mail-signature)
 </details>
 
 <details>
@@ -113,7 +113,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `Flutter`, `Dart`, `Bluetooth Low Energy (BLE)`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/tube-tracking)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=tube-tracking)
 </details>
 
 <details>
@@ -124,7 +124,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `C#`, `PostgreSQL`, `Entity Framework`, `Modbus TCP/RTU`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/station-automation)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=station-automation)
 </details>
 
 <details>
@@ -135,7 +135,7 @@ With a strong background in **Computer Engineering** and years of hands-on exper
   - **Tech:**  
     `ASP.NET Core`, `SignalR`, `PostgreSQL`, `JavaScript`, `Drag&Drop`
   - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/projects/scada-dashboard)
+    [Project Page](https://furkanaygul.com.tr/project.php?project=scada-dashboard)
 </details>
 
 <details>
