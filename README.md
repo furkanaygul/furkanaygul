@@ -78,12 +78,6 @@ I'm a Computer Engineer based in Istanbul, working as a Backend & Systems Engine
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=furkanaygul&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## Featured Work
