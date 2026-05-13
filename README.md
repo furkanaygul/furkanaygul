@@ -70,12 +70,18 @@ I'm a Computer Engineer based in Istanbul, working as a Backend & Systems Engine
 ## GitHub Stats
 
 <p align="center">
-  <img alt="Furkan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=furkanaygul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040b14&title_color=149ddd&icon_color=149ddd&text_color=ffffff" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaygul&layout=compact&theme=tokyonight&hide_border=true&bg_color=040b14&title_color=149ddd&text_color=ffffff" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Furkan's GitHub Stats" src="https://furkanaygul-stats.vercel.app/api?username=furkanaygul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Languages" src="https://furkanaygul-stats.vercel.app/api/top-langs/?username=furkanaygul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=furkanaygul&theme=tokyonight&hide_border=true&background=040b14&ring=149ddd&fire=149ddd&currStreakLabel=149ddd" />
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=furkanaygul&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
