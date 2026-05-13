@@ -1,204 +1,99 @@
-# Hi there, I'm Furkan Aygül! 👋
+<h1 align="center">Hi, I'm Furkan Aygül</h1>
+<h3 align="center">Backend & Systems Engineer · .NET 8 · Industrial IoT / SCADA</h3>
 
-Welcome to my GitHub profile! I'm a **Computer Engineer** and **Full Stack Developer** based in **İstanbul, Turkey**. I specialize in creating performance-oriented and innovative software solutions. 🚀
-
----
-
-## 🧑‍💻 About Me
-- 🎂 **Birthday:** 8 Sep 1998  
-- 🌍 **City:** İstanbul, Turkey  
-- ✉️ **Email:** [contact@furkanaygul.com.tr](mailto:contact@furkanaygul.com.tr)  
-- 🌐 **Website:** [furkanaygul.com.tr](https://furkanaygul.com.tr)  
-- 💡 **Experience:**  
-  I have a strong foundation in **C#** and am experienced in every stage of the software development lifecycle. My primary focus is on building efficient, scalable, and user-friendly applications.
+<p align="center">
+  <a href="https://furkanaygul.com.tr"><img alt="Website" src="https://img.shields.io/badge/Portfolio-furkanaygul.com.tr-149ddd?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aygulfurkan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aygulfurkan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact@furkanaygul.com.tr"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40furkanaygul.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills & Expertise
+## About
 
-With a strong background in **Computer Engineering** and years of hands-on experience in both **software development** and **industrial automation**, I specialize in delivering robust, scalable, and efficient solutions.
+I'm a Computer Engineer based in Istanbul, working as a Backend & Systems Engineer at **UESTCO Enerji Sistemleri**. I design and ship `.NET 8` systems end-to-end — architecture, performance, security and operations.
 
-### 💻 Programming & Development
-- **C#, .NET Core** – Advanced backend development, API design, multi-threaded applications  
-- **JavaScript, HTML, CSS** – Modern UI/UX with responsive design and interactivity  
-- **PHP** – Backend scripting and WordPress customization  
-- **Flutter** – BLE communication-based hybrid mobile applications  
-
-### 🗄️ Databases
-- **SQL** (PostgreSQL, MSSQL) – Query optimization, schema design, relational logic  
-- **NoSQL** (MongoDB) – Document modeling, aggregation pipelines, real-time processing  
-
-### ⚙️ DevOps & Tools
-- **Git & GitHub** – Version control, branching strategies, CI/CD via GitHub Actions  
-- **Docker** – Containerization of development and production environments  
-- **CI/CD Pipelines** – Automation of build and deployment processes  
-- **Linux System Administration** – Bash scripting, service management, performance tuning  
-
-### 🧠 Industrial Protocols & Automation
-- **Modbus (RTU/TCP)** – Real-time data communication with field devices  
-- **Profinet & Profibus** – Industrial network integration and troubleshooting  
-- **MQTT** – Lightweight IoT messaging protocols  
-- **SCADA & HMI** – Process monitoring, data visualization, and dashboard design  
-
-### 🔧 Additional Skills
-- **Software Architecture** – Clean code structure, modular and scalable designs  
-- **SignalR & WebSockets** – Real-time communication for industrial dashboards  
-- **Chrome Extension Development** – Data-driven browser tools  
-- **ElectronJS** – Cross-platform desktop apps for SCADA monitoring  
+- Currently building a **DDD-based microservice ERP backend** (Identity + CRM bounded contexts, JWT + Redis permission cache, YARP API Gateway)
+- Also shipping **Nexa-Flow** — a plug-in protocol industrial IoT acquisition service unifying Modbus TCP/RTU, MQTT, TCP Listener and Virtual devices on a single read pipeline
+- Recent focus areas: hot-path performance refactors (ConcurrentDictionary, dirty-set, `System.Threading.Channels`, `SemaphoreSlim` budgets), hash-tracked SQL migration, AES-256-GCM credential encryption, liveness/readiness split health probes
+- Ask me about `.NET` backend architecture, industrial protocols (Modbus / MQTT), SCADA, performance engineering, Linux ops
 
 ---
 
-## 🌟 Highlighted Projects
+## Tech Stack
 
-<details>
-  <summary><strong>Nexa-Flow: Large-Scale Industrial Flow Control System</strong></summary>
+**Backend & Languages**
 
-  - **Description:**  
-    Advanced SCADA flow control platform for BOTAŞ, built with a layered .NET 8 backend, dynamic Modbus TCP/RTU integration, PostgreSQL & MongoDB Timeseries logging, real-time dashboards, and Docker/Windows Service deployment.
-  - **Tech:**  
-    `.NET 8`, `C#`, `Modbus TCP/RTU`, `Entity Framework`, `NPoco`, `PostgreSQL`, `MongoDB Timeseries`, `Docker`, `Serilog`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/project.php?project=Nexa-Flow)
-</details>
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<details>
-  <summary><strong>IPACK Scada Systems</strong></summary>
+**Databases & Cache**
 
-  - **Description:**  
-    Refactored & extended legacy PHP/MsSQL SCADA system, implemented new UI, remote device management, data analysis, and security improvements.
-  - **Tech:**  
-    `PHP`, `MsSQL`, `Windows Forms`, `C#`, `Modbus`, `TCP Server`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-<details>
-  <summary><strong>Detector Monitoring System</strong></summary>
+**Architecture & Real-Time**
 
-  - **Description:**  
-    Real-time hardware monitoring and alerting app for industrial detectors, built with ElectronJS, Node.js, Bootstrap UI, and ModbusRTU.
-  - **Tech:**  
-    `Node.js`, `ElectronJS`, `JavaScript`, `Bootstrap`, `ModbusRTU`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
+![Microservices](https://img.shields.io/badge/-Microservices-1f6feb?style=flat-square)
+![DDD](https://img.shields.io/badge/-DDD-1f6feb?style=flat-square)
+![YARP](https://img.shields.io/badge/-YARP%20Gateway-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Modbus](https://img.shields.io/badge/-Modbus%20TCP%2FRTU-444?style=flat-square)
 
-<details>
-  <summary><strong>Chrome Extension NAS Automation</strong></summary>
+**DevOps & Ops**
 
-  - **Description:**  
-    Automated NAS folder/file creation via a custom Chrome Extension, enabling seamless workflow integration with enterprise NAS.
-  - **Tech:**  
-    `JavaScript`, `Chrome Extension`, `ElectronJS`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Serilog](https://img.shields.io/badge/-Serilog-444?style=flat-square)
+![Seq](https://img.shields.io/badge/-Seq-444?style=flat-square)
 
-<details>
-  <summary><strong>Mail Signature Generator</strong></summary>
+**Frontend & Mobile**
 
-  - **Description:**  
-    Web-based app for auto-generating custom email signatures for Outlook, Thunderbird, and webmail clients.
-  - **Tech:**  
-    `HTML`, `CSS`, `JavaScript`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
-
-<details>
-  <summary><strong>Tube Filling Tracking System (Flutter)</strong></summary>
-
-  - **Description:**  
-    BLE-enabled mobile app for wireless tube production data collection, Android/iOS compatible, developed with Flutter/Dart.
-  - **Tech:**  
-    `Flutter`, `Dart`, `Bluetooth Low Energy (BLE)`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
-
-<details>
-  <summary><strong>Station Automation</strong></summary>
-
-  - **Description:**  
-    Local process automation solution utilizing C#, PostgreSQL, Modbus protocol, supporting reporting, alarms, and dynamic configuration.
-  - **Tech:**  
-    `C#`, `PostgreSQL`, `Entity Framework`, `Modbus TCP/RTU`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
-
-<details>
-  <summary><strong>SCADA Dashboard</strong></summary>
-
-  - **Description:**  
-    Real-time, drag-and-drop dashboard web application for industrial monitoring and custom analytics.
-  - **Tech:**  
-    `ASP.NET Core`, `SignalR`, `PostgreSQL`, `JavaScript`, `Drag&Drop`
-  - **Links:**  
-    [Project Page](https://furkanaygul.com.tr/)
-</details>
-
-<details>
-  <summary><strong>Multi-VLAN Network Project</strong></summary>
-
-  - **Description:**  
-    Designed and implemented secure, segmented office networks with MikroTik routers, static IP, OpenVPN, firewall, VLANs, and network automation scripts.
-  - **Tech:**  
-    `MikroTik`, `OpenVPN`, `Linux`, `Firewall`, `VLAN`, `Network Automation`
-</details>
-
-<details>
-  <summary><strong>SMS Sender</strong></summary>
-
-  - **Description:**  
-    Custom C# application for automated SMS notifications in SCADA systems, with detailed delivery logs and dynamic configuration.
-  - **Tech:**  
-    `C#`, `SMS API`
-</details>
-
-<details>
-  <summary><strong>Mail Server</strong></summary>
-
-  - **Description:**  
-    Secure mail server deployment with Postfix, SSL/TLS, SPF/DKIM/DMARC, panel management, and DNS integration.
-  - **Tech:**  
-    `Postfix`, `Linux`, `SSL/TLS`, `DNS`
-</details>
-
-<details>
-  <summary><strong>Warehouse Entry/Exit Mobile Application</strong></summary>
-
-  - **Description:**  
-    Cross-platform warehouse inventory app using QR codes and Google Sheets sync, built with Flutter for Android/iOS.
-  - **Tech:**  
-    `Flutter`, `Dart`, `QR Code`, `Google Sheets API`
-</details>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![ElectronJS](https://img.shields.io/badge/-ElectronJS-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 
-## 📦 Other Projects
+## GitHub Stats
 
-- **WordPress Theme & SEO Solutions:**  
-  Custom themes/plugins & technical SEO for high-performance WordPress sites.
+<p align="center">
+  <img alt="Furkan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=furkanaygul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040b14&title_color=149ddd&icon_color=149ddd&text_color=ffffff" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaygul&layout=compact&theme=tokyonight&hide_border=true&bg_color=040b14&title_color=149ddd&text_color=ffffff" />
+</p>
 
-- **UART-BLE:**  
-  ESP32-based bridge converting UART sensor data to BLE, enabling wireless monitoring.
-
----
-
-> 📌 **Hepsini daha detaylı görmek için:**  
-> [furkanaygul.com.tr](https://furkanaygul.com.tr)
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=furkanaygul&theme=tokyonight&hide_border=true&background=040b14&ring=149ddd&fire=149ddd&currStreakLabel=149ddd" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 🌐 **Website:** [furkanaygul.com.tr](https://furkanaygul.com.tr)  
-- ✉️ **Email:** [contact@furkanaygul.com.tr](mailto:contact@furkanaygul.com.tr)
+## Featured Work
+
+> Most production work happens in private organization repos. Below are the public-facing pieces and case studies.
+
+- **[furkanaygul.com.tr](https://furkanaygul.com.tr)** — Personal portfolio (PHP + JSON-driven sections), with deep technical write-ups of each project
+- **[Nexa-Flow case study](https://furkanaygul.com.tr/project.php?project=Nexa-Flow)** — Plug-in protocol architecture, performance refactor and hash-tracked SQL migrator
+- **[UESTCO ERP case study](https://furkanaygul.com.tr/project.php?project=UESTCO-ERP-System)** — DDD microservices, Identity + CRM bounded contexts, YARP gateway
 
 ---
 
-Thank you for visiting my profile!  
-_Interested in collaboration or want to know more?  
-Feel free to reach out or check out my project links above!_ 🚀
+## Get in touch
 
+- Portfolio · [furkanaygul.com.tr](https://furkanaygul.com.tr)
+- LinkedIn · [linkedin.com/in/aygulfurkan](https://www.linkedin.com/in/aygulfurkan)
+- Email · [contact@furkanaygul.com.tr](mailto:contact@furkanaygul.com.tr)
 
+<sub>Open to backend / platform / industrial-IoT roles and consulting work.</sub>
